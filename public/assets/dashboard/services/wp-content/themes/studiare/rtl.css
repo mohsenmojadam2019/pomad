@@ -1,0 +1,328 @@
+@font-face{font-family:'irsns-regular-fa';src:url('fonts/irsns-regular-fad41d.eot?#') format('eot'),
+url('fonts/irsns-regular-fa.woff') format('woff'),
+url('fonts/irsns-regular-fa.ttf') format('truetype');}
+@font-face{font-family:'irsns-regular';src:url('fonts/irsns-regulard41d.eot?#') format('eot'),
+url('fonts/irsns-regular.woff') format('woff'),
+url('fonts/irsns-regular.ttf') format('truetype');}
+@font-face{font-family:'irsns-light-fa';src:url('fonts/irsns-light-fad41d.eot?#') format('eot'),
+url('fonts/irsns-light-fa.woff') format('woff'),
+url('fonts/irsns-light-fa.ttf') format('truetype');}
+@font-face{font-family:'irsns-light';src:url('fonts/irsns-lightd41d.eot?#') format('eot'),
+url('fonts/irsns-light.woff') format('woff'),
+url('fonts/irsns-light.ttf') format('truetype');}
+@font-face{font-family:'irsns-bold-fa';src:url('fonts/irsns-bold-fad41d.eot?#') format('eot'),
+url('fonts/irsns-bold-fa.woff') format('woff'),
+url('fonts/irsns-bold-fa.ttf') format('truetype');}
+@font-face{font-family:'irsns-bold';src:url('fonts/irsns-boldd41d.eot?#') format('eot'),
+url('fonts/irsns-bold.woff') format('woff'),
+url('fonts/irsns-bold.ttf') format('truetype');}
+@font-face{font-family:'Shabnam-Bold';src:url('fonts/Shabnam-Boldd41d.eot?#') format('eot'),
+url('fonts/Shabnam-Bold.woff') format('woff'),
+url('fonts/Shabnam-Bold.ttf') format('truetype');}
+@font-face{font-family:'Shabnam';src:url('fonts/Shabnamd41d.eot?#') format('eot'),
+url('fonts/Shabnam.woff') format('woff'),
+url('fonts/Shabnam.ttf') format('truetype');}
+@font-face{font-family:'Lalezar-Regular';src:url('fonts/Lalezar-Regulard41d.eot?#') format('eot'),
+url('fonts/Lalezar-Regular.woff') format('woff'),
+url('fonts/Lalezar-Regular.ttf') format('truetype');}
+@font-face{font-family:'broyabold';src:url('fonts/broyaboldd41d.eot?#') format('eot'),
+url('fonts/broyabold.woff') format('woff'),
+url('fonts/broyabold.ttf') format('truetype');}
+@font-face{font-family:'rezvan';src:url('fonts/rezvand41d.eot?#') format('eot'),
+url('fonts/rezvan.woff') format('woff'),
+url('fonts/rezvan.ttf') format('truetype');}
+@font-face{font-family:'khodkar';src:url('fonts/khodkard41d.eot?#') format('eot'),
+url('fonts/khodkar.woff') format('woff'),
+url('fonts/khodkar.ttf') format('truetype');}
+@font-face{font-family:'DastNevis';src:url('fonts/DastNevisd41d.eot?#') format('eot'),
+url('fonts/DastNevis.woff') format('woff'),
+url('fonts/DastNevis.ttf') format('truetype');}
+@font-face{font-family:'BTitrBold';src:url('fonts/BTitrBoldd41d.eot?#') format('eot'),
+url('fonts/BTitrBold.woff') format('woff'),
+url('fonts/BTitrBold.ttf') format('truetype');}
+@font-face{font-family:'BYekan';src:url('fonts/BYekand41d.eot?#') format('eot'),
+url('fonts/BYekan.woff') format('woff'),
+url('fonts/BYekan.ttf') format('truetype');}
+@font-face{font-family:'BZar';src:url('fonts/BZard41d.eot?#') format('eot'),
+url('fonts/BZar.woff') format('woff'),
+url('fonts/BZar.ttf') format('truetype');}
+@font-face{font-family:'BSinaBold';src:url('fonts/BSinaBoldd41d.eot?#') format('eot'),
+url('fonts/BSinaBold.woff') format('woff'),
+url('fonts/BSinaBold.ttf') format('truetype');}
+@font-face{font-family:'BZiba';src:url('fonts/BZibad41d.eot?#') format('eot'),
+url('fonts/BZiba.woff') format('woff'),
+url('fonts/BZiba.ttf') format('truetype');}
+@font-face{font-family:'iransansdnlight';src:url('fonts/iransansdnlight.woff2') format('woff'),}
+@font-face{font-family:scirsnsdn;font-style:normal;font-weight:700;src:url(fonts/iransansdnbold.eot);src:url(fonts/iransansdnboldd41d.eot?#iefix) format('embedded-opentype'),url(fonts/iransansdnbold.html) format('woff2'),url(fonts/iransansdnbold.woff) format('woff'),url(fonts/iransansdnbold.ttf) format('truetype')}@font-face{font-family:scirsnsdn;font-style:normal;font-weight:300;src:url(fonts/iransansdnlight.html);src:url(fonts/iransansdnlightd41d.html?#iefix) format('embedded-opentype'),url(fonts/iransansdnlight.woff2) format('woff2'),url(fonts/iransansdnlight-2.html) format('woff'),url(fonts/iransansdnlight-3.html) format('truetype')}@font-face{font-family:scirsnsdn;font-style:normal;font-weight:400;src:url(fonts/iransansdn.html);src:url(fonts/iransansdnd41d.html?#iefix) format('embedded-opentype'),url(fonts/iransansdn.woff2) format('woff2'),url(fonts/iransansdn-2.html) format('woff'),url(fonts/iransansdn.ttf) format('truetype')}
+@font-face{font-family:'scirsnsyekan';src:url('fonts/scirsnsyekan.eot');src:url('fonts/scirsnsyekand41d.eot?#iefix') format('embedded-opentype'),
+url('fonts/scirsnsyekan.woff') format('woff'),
+url('fonts/scirsnsyekan.ttf') format('truetype');font-weight:normal;font-style:normal;}
+@font-face{font-family:sc_iranyekan;font-style:normal;font-weight:bold;src:url('fonts/eot/iranyekanwebboldfanum.eot');src:url('fonts/eot/iranyekanwebboldfanumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff/iranyekanwebboldfanum.woff') format('woff'), url('fonts/ttf/iranyekanwebboldfanum.ttf') format('truetype');}
+@font-face{font-family:sc_iranyekan;font-style:normal;font-weight:300;src:url('fonts/eot/iranyekanweblightfanum.eot');src:url('fonts/eot/iranyekanweblightfanumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff/iranyekanweblightfanum.woff') format('woff'), url('fonts/ttf/iranyekanweblightfanum.ttf') format('truetype');}
+@font-face{font-family:sc_iranyekan;font-style:normal;font-weight:normal;src:url('fonts/eot/iranyekanwebregularfanum.eot');src:url('fonts/eot/iranyekanwebregularfanumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff/iranyekanwebregularfanum.woff') format('woff'), url('fonts/ttf/iranyekanwebregularfanum.ttf') format('truetype');}
+@font-face{font-family:sc_iranyekan;font-style:normal;font-weight:500;src:url('fonts/eot/iranyekanwebmediumfanum.eot');src:url('fonts/eot/iranyekanwebmediumfanumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff/iranyekanwebmediumfanum.woff') format('woff'), url('fonts/ttf/iranyekanwebmediumfanum.ttf') format('truetype');}
+@font-face{font-family:sc_iranyekan;font-style:normal;font-weight:800;src:url('fonts/eot/iranyekanwebextraboldfanum.eot');src:url('fonts/eot/iranyekanwebextraboldfanumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff/iranyekanwebextraboldfanum.woff') format('woff'), url('fonts/ttf/iranyekanwebextraboldfanum.ttf') format('truetype');}
+@font-face{font-family:sc_iranyekan;font-style:normal;font-weight:900;src:url('fonts/eot/iranyekanwebblackfanum.eot');src:url('fonts/eot/iranyekanwebblackfanumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff/iranyekanwebblackfanum.woff') format('woff'), url('fonts/ttf/iranyekanwebblackfanum.ttf') format('truetype');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:200;src:url('fonts/eot/dana-fanum-extralight.eot');src:url('fonts/eot/dana-fanum-extralightd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-extralight.woff2') format('woff2'), url('fonts/woff/dana-fanum-extralight.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:300;src:url('fonts/eot/dana-fanum-light.eot');src:url('fonts/eot/dana-fanum-lightd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-light.woff2') format('woff2'), url('fonts/woff/dana-fanum-light.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:500;src:url('fonts/eot/dana-fanum-medium.eot');src:url('fonts/eot/dana-fanum-mediumd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-medium.woff2') format('woff2'), url('fonts/woff/dana-fanum-medium.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:600;src:url('fonts/eot/dana-fanum-demibold.eot');src:url('fonts/eot/dana-fanum-demiboldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-demibold.woff2') format('woff2'), url('fonts/woff/dana-fanum-demibold.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:750;src:url('fonts/eot/dana-fanum-ultrabold.eot');src:url('fonts/eot/dana-fanum-ultraboldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-ultrabold.woff2') format('woff2'), url('fonts/woff/dana-fanum-ultrabold.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:800;src:url('fonts/eot/dana-fanum-extrabold.eot');src:url('fonts/eot/dana-fanum-extraboldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-extrabold.woff2') format('woff2'), url('fonts/woff/dana-fanum-extrabold.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:900;src:url('fonts/eot/dana-fanum-black.eot');src:url('fonts/eot/dana-fanum-blackd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-black.woff2') format('woff2'), url('fonts/woff/dana-fanum-black.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:bold;src:url('fonts/eot/dana-fanum-bold.eot');src:url('fonts/eot/dana-fanum-boldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-bold.woff2') format('woff2'), url('fonts/woff/dana-fanum-bold.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:normal;font-weight:normal;src:url('fonts/eot/dana-fanum-regular.eot');src:url('fonts/eot/dana-fanum-regulard41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-regular.woff2') format('woff2'), url('fonts/woff/dana-fanum-regular.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:200;src:url('fonts/eot/dana-fanum-extralightitalic.eot');src:url('fonts/eot/dana-fanum-extralightitalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-extralightitalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-extralightitalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:300;src:url('fonts/eot/dana-fanum-lightitalic.eot');src:url('fonts/eot/dana-fanum-lightitalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-lightitalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-lightitalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:500;src:url('fonts/eot/dana-fanum-mediumitalic.eot');src:url('fonts/eot/dana-fanum-mediumitalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-mediumitalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-mediumitalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:600;src:url('fonts/eot/dana-fanum-demibolditalic.eot');src:url('fonts/eot/dana-fanum-demibolditalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-demibolditalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-demibolditalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:750;src:url('fonts/eot/dana-fanum-ultrabolditalic.eot');src:url('fonts/eot/dana-fanum-ultrabolditalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-ultrabolditalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-ultrabolditalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:800;src:url('fonts/eot/dana-fanum-extrabolditalic.eot');src:url('fonts/eot/dana-fanum-extrabolditalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-extrabolditalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-extrabolditalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:900;src:url('fonts/eot/dana-fanum-blackitalic.eot');src:url('fonts/eot/dana-fanum-blackitalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-blackitalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-blackitalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:bold;src:url('fonts/eot/dana-fanum-bolditalic.eot');src:url('fonts/eot/dana-fanum-bolditalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-bolditalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-bolditalic.woff') format('woff');}
+@font-face{font-family:sc_dana;font-style:italic;font-weight:normal;src:url('fonts/eot/dana-fanum-regularitalic.eot');src:url('fonts/eot/dana-fanum-regularitalicd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/dana-fanum-regularitalic.woff2') format('woff2'), url('fonts/woff/dana-fanum-regularitalic.woff') format('woff');}
+@font-face{font-family:sc_iransans;font-style:normal;font-weight:900;src:url('fonts/eot/IRANSansWeb(FaNum.html)_Black.eot');src:url('fonts/eot/IRANSansWeb(FaNum.html)_Black.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANSansWeb(FaNum.html)_Black.woff2') format('woff2'), url('fonts/woff/IRANSansWeb(FaNum.html)_Black.woff') format('woff'), url('fonts/ttf/IRANSansWeb(FaNum.html)_Black.ttf') format('truetype');}
+@font-face{font-family:sc_iransans;font-style:normal;font-weight:bold;src:url('fonts/eot/IRANSansWeb(FaNum.html)_Bold.eot');src:url('fonts/eot/IRANSansWeb(FaNum.html)_Bold.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANSansWeb(FaNum.html)_Bold.woff2') format('woff2'), url('fonts/woff/IRANSansWeb(FaNum.html)_Bold.woff') format('woff'), url('fonts/ttf/IRANSansWeb(FaNum.html)_Bold.ttf') format('truetype');}
+@font-face{font-family:sc_iransans;font-style:normal;font-weight:500;src:url('fonts/eot/IRANSansWeb(FaNum.html)_Medium.eot');src:url('fonts/eot/IRANSansWeb(FaNum.html)_Medium.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANSansWeb(FaNum.html)_Medium.woff2') format('woff2'), url('fonts/woff/IRANSansWeb(FaNum.html)_Medium.woff') format('woff'), url('fonts/ttf/IRANSansWeb(FaNum.html)_Medium.ttf') format('truetype');}
+@font-face{font-family:sc_iransans;font-style:normal;font-weight:300;src:url('fonts/eot/IRANSansWeb(FaNum.html)_Light.eot');src:url('fonts/eot/IRANSansWeb(FaNum.html)_Light.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANSansWeb(FaNum.html)_Light.woff2') format('woff2'), url('fonts/woff/IRANSansWeb(FaNum.html)_Light.woff') format('woff'), url('fonts/ttf/IRANSansWeb(FaNum.html)_Light.ttf') format('truetype');}
+@font-face{font-family:sc_iransans;font-style:normal;font-weight:200;src:url('fonts/eot/IRANSansWeb(FaNum.html)_UltraLight.eot');src:url('fonts/eot/IRANSansWeb(FaNum.html)_UltraLight.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANSansWeb(FaNum.html)_UltraLight.woff2') format('woff2'), url('fonts/woff/IRANSansWeb(FaNum.html)_UltraLight.woff') format('woff'), url('fonts/ttf/IRANSansWeb(FaNum.html)_UltraLight.ttf') format('truetype');}
+@font-face{font-family:sc_iransans;font-style:normal;font-weight:normal;src:url('fonts/eot/IRANSansWeb(FaNum.html).eot');src:url('fonts/eot/IRANSansWeb(FaNum.html).eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANSansWeb(FaNum.html).woff2') format('woff2'), url('fonts/woff/IRANSansWeb(FaNum.html).woff') format('woff'), url('fonts/ttf/IRANSansWeb(FaNum.html).ttf') format('truetype');}
+@font-face{font-family:sc_iransansdn;font-style:normal;font-weight:bold;src:url('fonts/eot/iransansdnwebbold.eot');src:url('fonts/eot/iransansdnwebboldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/iransansdnwebbold.woff2') format('woff2'), url('fonts/woff/iransansdnwebbold.woff') format('woff'), url('fonts/ttf/iransansdnwebbold.ttf') format('truetype');}
+@font-face{font-family:sc_iransansdn;font-style:normal;font-weight:300;src:url('fonts/eot/iransansdnweblight.eot');src:url('fonts/eot/iransansdnweblightd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/iransansdnweblight.woff2') format('woff2'), url('fonts/woff/iransansdnweblight.woff') format('woff'), url('fonts/ttf/iransansdnweblight.ttf') format('truetype');}
+@font-face{font-family:sc_iransansdn;font-style:normal;font-weight:normal;src:url('fonts/eot/iransansdnweb.eot');src:url('fonts/eot/iransansdnwebd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/iransansdnweb.woff2') format('woff2'), url('fonts/woff/iransansdnweb.woff') format('woff'), url('fonts/ttf/iransansdnwebregular.html') format('truetype');}
+@font-face{font-family:sc_mahboobeh;font-style:normal;font-weight:500;src:url('fonts/eot/mahboubeh_mehravar.eot');src:url('fonts/eot/mahboubeh_mehravard41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/mahboubeh_mehravar.woff2') format('woff2'), url('fonts/woff/mahboubeh_mehravar.woff') format('woff'), url('fonts/ttf/mahboubeh_mehravar.html') format('truetype');}
+@font-face{font-family:sc_iran;font-style:normal;font-weight:bold;src:url('fonts/eot/IRANBold.eot');src:url('fonts/eot/IRANBoldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANBold.woff2') format('woff2'), url('fonts/woff/IRANBold.woff') format('woff'), url('fonts/ttf/IRANBold.ttf') format('truetype');}
+@font-face{font-family:sc_iran;font-style:normal;font-weight:900;src:url('fonts/eot/IRANBlack.eot');src:url('fonts/eot/IRANBlackd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRANBlack.woff2') format('woff2'), url('fonts/woff/IRANBlack.woff') format('woff'), url('fonts/ttf/IRANBlack.ttf') format('truetype');}
+@font-face{font-family:sc_iran;font-style:normal;font-weight:600;src:url('fonts/eot/IRAN_SemiBold.eot');src:url('fonts/eot/IRAN_SemiBoldd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRAN_SemiBold.woff2') format('woff2'), url('fonts/woff/IRAN_SemiBold.woff') format('woff'), url('fonts/ttf/IRAN_SemiBold.ttf') format('truetype');}
+@font-face{font-family:sc_iran;font-style:normal;font-weight:normal;src:url('fonts/eot/IRAN.eot');src:url('fonts/eot/IRANd41d.eot?#iefix') format('embedded-opentype'), url('fonts/woff2/IRAN.woff2') format('woff2'), url('fonts/woff/IRAN.woff') format('woff'), url('fonts/ttf/IRAN.ttf') format('truetype');}
+@font-face{font-family:sc_anjoman;font-weight:200;src:url('fonts/eot/Anjoman-Lightd41d.eot?#') format('eot'), url('fonts/woff/Anjoman-Light.woff') format('woff'), url('fonts/woff2/Anjoman-Light.woff2') format('woff2'), url('fonts/ttf/Anjoman-Light.ttf') format('truetype');}
+@font-face{font-family:sc_anjoman;font-weight:normal;src:url('fonts/eot/Anjoman-Regulard41d.eot?#') format('eot'), url('fonts/woff/Anjoman-Regular.woff') format('woff'), url('fonts/woff2/Anjoman-Regular.woff2') format('woff2'), url('fonts/ttf/Anjoman-Regular.ttf') format('truetype');}
+@font-face{font-family:sc_anjoman;font-weight:600;src:url('fonts/eot/Anjoman-Boldd41d.eot?#') format('eot'), url('fonts/woff/Anjoman-Bold.woff') format('woff'), url('fonts/woff2/Anjoman-Bold.woff2') format('woff2'), url('fonts/ttf/Anjoman-Bold.ttf') format('truetype');}
+body{text-align:right;}
+h1, h2, h3, h4, h5, h6{}
+.icon-box.icon-box-left .icon-wrap{margin-left:24px;margin-right:0;}
+.icon-box.icon-box-right .icon-wrap{margin-right:24px;margin-left:0;}
+.countdown-item,.tp_event_counter{direction:ltr;}
+.studiare-event-item .studiare-event-item-holder .event-inner-content .date-holder{margin-right:0;margin-left:24px;}
+.studiare-event-item .studiare-event-item-holder .event-inner-content .event-meta .event-meta-piece{padding-left:15px;padding-right:0;}
+.owl-dots{display:block;}
+.owl-dots .owl-dot{display:inline-block;}
+.course-categories .course-grid-box .category-holder .category-bg{-webkit-transform:translate3d(30px, 0, 0);transform:translate3d(30px, 0, 0);}
+.studiare-navigation ul.menu>li>a, .studiare-navigation .menu>ul>li>a,.studiare-navigation ul.menu>li ul li>a, .studiare-navigation .menu>ul>li ul li>a{}
+.studiare-navigation ul.menu > li > a i, .studiare-navigation .menu > ul > li > a i{margin-left:7px;margin-right:0;}
+.studiare-navigation ul.menu > li ul, .studiare-navigation .menu > ul > li ul{right:0;left:auto;}
+.studiare-navigation ul.menu > li ul li > ul, .studiare-navigation .menu > ul > li ul li > ul{right:100%;left:auto;}
+.studiare-navigation ul.menu > li ul li.menu-item-has-children > a:after, .studiare-navigation .menu > ul > li ul li.menu-item-has-children > a:after{left:20px;right:auto;border-width:4px 6px 4px 0;border-color:transparent #dee2e6 transparent transparent;content: "\f104";
+    font-family: "Font Awesome 5 Pro" !important;
+    border-width: 0;
+    top: 34%;}
+.search-form input[type='search']{padding-left:42px;padding-right:15px;}
+.site-search-wrapper .submit{position:absolute;left:15px;right:auto;}
+.login-form-modal .login-form-modal-box .close{left:30px;right:auto;}
+.top-bar-cart .dropdown-cart,.search-form .search-submit{left:0;right:auto;}
+.courses-holder .courses-top-bar .layout-switcher{margin-left:1rem;margin-right:0.6rem;}
+.woocommerce-breadcrumb i{transform:rotate(180deg);}
+.main-sidebar-holder .widget .widget-title:before{right:-1.76rem;left:auto;}
+.products .course-item .course-item-inner .course-content-holder .course-content-bottom .course-students i{margin-left:8px;margin-right:0;}
+.products .course-item .course-item-inner .course-content-holder .course-content-main .course-rating-teacher .star-rating .votes-number{margin-left:10px;margin-right:0;}
+.not-found .not-found-icon-wrapper{margin-left:30px;margin-right:0;}
+.course-section .panel-group .course-panel-heading .private-lesson i, .course-section .panel-group .course-panel-heading .preview-button i{margin-left:5px;margin-right:0;}
+.course-section .panel-group .course-panel-heading .private-lesson{margin-right:6px;padding-left:0;}
+unit .icon,.product-meta-info-list .meta-info-unit .icon,.product-reviews-stats .detailed-ratings .detailed-ratings-inner .course-rating .number,.product-reviews-stats .detailed-ratings .detailed-ratings-inner .course-rating .bar,.product-single-main .product-single-top-part .before-gallery-unit .icon,.animated-counter .counter-text .counter-number{margin-left:15px;margin-right:0;}
+.course-section .panel-group .course-panel-heading .panel-heading-left .course-lesson-icon{margin-left:15px;margin-right:0;}
+.course-section .panel-group .course-panel-heading .panel-heading-left .badge-item{margin-right:6px;margin-left:0;}
+.course-teacher-details .top-part .name{padding-right:20px;padding-left:0;}
+.average-rating{padding-left:30px;padding-right:0;}
+.product-reviews .product-review-title .inner i{margin-left:10px;margin-right:0;}
+.product-single-main .product-single-top-part .before-gallery-unit{border-left:1px solid #e5e5e5;border-right:none;padding-left:20px;padding-right:0;margin-left:20px;margin-right:0;}
+.product-single-main .product-single-top-part .before-gallery-unit:last-child{padding-left:0;border-left:none;}
+.product-single-main .product-single-top-part .before-gallery-unit .star-rating .rating,.products .course-item .course-item-inner .course-content-holder .course-content-main .course-rating-teacher .star-rating .rating{margin-left:8px;margin-right:0;}
+.woocommerce-Message .button, .woocommerce-message .button{left:32px;right:auto;}
+.woocommerce-Message:before, .woocommerce-message:before{margin-left:11px;margin-right:0;}
+.top-bar-cart .dropdown-cart .cart-item-content .product-title,.widget_shopping_cart .quantity{text-align:right;}
+.widget_shopping_cart .mini_cart_item .remove{left:15px;right:auto;}
+.product_list_widget li .wp-post-image{float:right;margin-left:15px;margin-right:0;}
+.widget_shopping_cart .cart-item-content{padding-left:20px;padding-right:0;}
+@media (min-width:768px){.cart-page-inner .woocommerce-cart-form .button_update_cart{left:0;right:auto;}}
+table tr th{text-align:right;}
+.cart-page-inner .woocommerce-cart-form td.actions .coupon .button{left:6px;right:auto;}
+.blog-loop-inner .post .post-meta, .blog-loop-inner .portfolio .post-meta{padding-left:24px;padding-right:0;margin-right:0;}
+.blog-loop-inner .post .post-meta i, .blog-loop-inner .portfolio .post-meta i{margin-left:8px;margin-right:0;}
+.footer-widgets .widget_nav_menu * > ul > li a:hover:before{margin-left:5px;margin-right:0;}
+.widget_contacts ul li .contact-info-icon{margin-left:12px;margin-right:0;}
+.cart-page-inner .woocommerce-cart-form td.actions .coupon:after{left:22px;right:auto;transform:translateY(-50%) rotate(180deg);display:none;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li{margin-left:15px;margin-right:0;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:before{margin-left:8px;margin-right:0;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:after{margin-right:15px;margin-left:0;}
+.shop_table tfoot tr{text-align:right;}
+.testimonials-wrapper .testimonial-item .testimonial-inner .testimonial-author .testimonial-avatar{margin-left:20px;margin-right:0;}
+@media (min-width:768px){.page .commentlist .comment-body, .page .commentlist .comment-text, .single-post .commentlist .comment-body, .single-post .commentlist .comment-text{padding-right:94px;padding-left:0;}}
+.page .commentlist .comment .avatar, .single-post .commentlist .comment .avatar{right:0;left:auto;}
+.comment-holder .commentlist .children{margin-right:30px;margin-left:0;}
+.post-nav-link.prev{padding-right:32px;padding-left:0;}
+.post-nav-link.next{padding-left:32px;padding-right:0;}
+.post-nav-link svg{right:0;left:auto;transform:translateY(-50%) rotate(180deg);}
+.post-nav-link.next svg{right:auto;left:0;}
+.top-bar-contact-info i{margin-left:6px;margin-right:0;float:right;}
+.top-bar-contact-info li{margin-left:30px;margin-right:0;}
+.btn i, input[type="button"] i, input[type="reset"] i, input[type="submit"] i, .button i, .button-secondary i, .woocommerce_message .button i, .woocommerce-message .button i, .event-single-side a.event_register_submit i, .event_register_submit i{margin-left:6px;margin-right:0;}
+.site-header .header-button-link .login-button i{float:right;}
+.page-numbers i.fa.fa-angle-right:before{content:"\f104";}
+.page-numbers i.fa.fa-angle-left:before{content:"\f105";}
+.wpcf7-form-control-wrap,label{direction:rtl;}
+.vc_progress_bar .vc_single_bar .vc_bar{right:0;}
+.text-right{text-align:left;}
+.mfp-content{text-align:right;}
+.event-single-main .event-meta-info .box-content .icon{margin-right:20px;margin-left:0;}
+.commentlist .comment .comment_container .comment-avatar{margin-left:24px;margin-right:0;}
+.site-footer.footer-color-light a{color:rgba(255, 255, 255, 0.6) !important;}
+/*.owl-carousel .owl-nav{display:none;}*/
+.gallery-carousel-inner .owl-dots{position:relative;padding-top:50px;}
+#bbpress-forums div.bbp-topic-content pre, #bbpress-forums div.bbp-reply-content pre{direction:ltr;text-align:left;}
+.studiare-event-item .studiare-event-item-holder .event-inner-content .event-thumbnail{margin-right:30px;margin-left:0;}
+.off-canvas-main .mobile-menu ul{padding-right:1em;padding-left:0;border-right:1px solid #333940;border-left:none;}
+.site-header .site-logo .studiare-logo-wrap{padding-left:20px;padding-right:0;}
+ul.woocommerce-error li{display:block;}
+ul.woocommerce-error li:before{margin-left:10px;margin-right:0;}
+body.woocommerce-account ul li.woocommerce-MyAccount-navigation-link--purchased-products a:before{color:#f9a134;margin-left:8px;margin-right:0;}
+li.woocommerce-MyAccount-navigation-link.is-active{font-weight:700;}
+.woocommerce > .woocommerce-error:before{margin-left:11px;margin-right:0;}
+.products .course-item .course-item-inner .course-content-holder .course-content-main .course-rating-teacher .star-rating.no-ratings .rating,.product-single-main .product-single-top-part .before-gallery-unit .star-rating.no-ratings .rating{background-color:#9E9E9E;}
+.dokan-dashboard .dokan-dash-sidebar, .dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu{border-radius:10px;}
+.pull-right{float:left !important;}
+.pull-left{float:right !important;}
+ul, ol{margin:0 20px 24px 0;}
+.dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li a i{padding-left:15px;padding-right:0;}
+.dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li a{padding:10px 18px 10px 0;}
+.dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li.dokan-common-links a{float:right;border-left:1px solid #454545;border-right:none;}
+.dokan-dashboard .dokan-dash-sidebar ul.dokan-dashboard-menu li a.tips i{padding-left:0;padding-right:15px;}
+.dokan-single-store .dokan-store-tabs ul li{border-left:1px solid #EDEDED;border-right:none;margin-right:0;}
+.off-canvas-navigation{left:0;right:auto;-webkit-transform:translate(-300px, 0);transform:translate(-300px, 0);}
+.off-canvas-open .off-canvas-navigation{visibility:visible;-webkit-transform:translate(0px, 0);transform:translate(0px, 0);}
+.off-canvas-open .wrap{-webkit-transform:translate(300px, 0) !important;transform:translate(300px, 0) !important;}
+button.single_add_to_cart_button:before{margin-left:8px;margin-right:0;}
+button.single_add_to_cart_button.kharide{background:#4CAF50 !important;color:white;border:0;border-radius:5px;}
+button.single_add_to_cart_button.kharide:before{content:"\f19d";font-family:"Font Awesome 5 Pro";}
+button.single_add_to_cart_button.khariding{background:Orange !important;color:white;border:0;border-radius:5px;}
+button.single_add_to_cart_button.khariding:before{content:"\f217";font-family:"Font Awesome 5 Pro";}
+.private-lesson.privateunlock i:before{content:"\f09c";}
+.private-lesson.privateunlock{color:#4CAF50;}
+.woocommerce > .woocommerce-error li a{left:32px;right:auto;}
+.post-author-box .avatar{margin-left:24px;margin-right:0;}
+.scorderby{min-width:190px;max-width:240px;}
+.select2-container--default .select2-selection--single .select2-selection__rendered{padding:6px 0;}
+.select2-container--default .select2-selection--single{min-height:39px;padding-right:5px;}
+.select2-container--default .select2-selection--single .select2-selection__arrow{top:8px;left:7px;}
+.commentlist .review{border-bottom:1px solid #f2f2f2;padding-bottom:10px;margin-top:30px;}
+.commentlist .review .comment_container{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;clear:both;}
+.commentlist .review .comment_container .comment-avatar img{border-radius:50%;}
+.commentlist .review .comment_container .comment-avatar{margin-left:24px;margin-right:0;}
+.woocommerce-notices-wrapper{width:100%;margin:0;}
+.commentlist .review .star-rating > span{direction:rtl;}
+.product-info-box .icon{margin-left:10px;}
+.product-info-box .course-category.before-gallery-unit, .product-info-box .course-rating.before-gallery-unit{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-bottom:1px solid #e5e5e5;padding:10px 0;}
+.scshortlink{display:flex;line-height:3.5em;}
+.scshort-link{direction:ltr;text-align:left;border:1px solid #e5e5e5;border-radius:4px;padding:3px 12px;}
+a.comment-reply-link{background:#f8f9fa;padding:5px;border-radius:5px;display:table;width:85px;text-align:center;}
+#cancel-comment-reply-link{background:#ff110024;border-radius:5px;border:none;padding:5px;}
+.product-reviews-stats .detailed-ratings .detailed-ratings-inner .course-rating .bar .bar-fill{right:0;left:auto;}
+.average-rating .avareage-rating-inner .average-rating-stars .star-rating > span{background-position:right top;}
+.product-info-box .star-rating .rating{background-color:#8bca48;color:#fff;padding:3px 6px;margin-right:8px;border-radius:4px;}
+li > ul, li > ol{margin:0 20px 0 0;}
+.children .review{border-top:1px solid #f2f2f2;border-bottom:none;padding-top:16px;}
+.newsletter-form .form-control{padding-right:44px;padding-left:0;border-top-right-radius:2px;border-top-left-radius:0;border-bottom-right-radius:2px;border-bottom-left-radius:0;}
+.newsletter-form input[type=submit]{border-top-left-radius:2px;border-top-right-radius:0;border-bottom-left-radius:2px;border-bottom-right-radius:0;}
+.newsletter-form:before{right:0;left:auto;}
+.product_list_widget > li img{margin-left:15px;margin-right:0;}
+.widget_shopping_cart .cart-item-content{padding-left:0;padding-right:0;}
+@media (max-width:991.98px){.site-header .header-button-link, .site-header .header-button-link a{display:block;padding:2px;padding-left:7px;border-radius:5px !important;}
+}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:last-child:after{display:none;}
+/* .course-section{background:#f8f9fa;border-radius:5px;border:1px solid #e9ecef;} */
+.course-section .panel-group .course-panel-heading:hover, .course-section .panel-group .course-panel-heading.active{background-color:#ffffff;}
+.course-section .panel-group .panel-content{background-color:#ffffff;}
+.verified{font-size:12px;font-style:initial;background:#4CAF50;color:white;padding:0px 7px;border-radius:3px;margin-right:5px;}
+.product-meta-info-list .meta-info-unit:last-child{border-bottom:none;}
+.course-lesson-icon{background:#ffffff;padding:23px;border-radius:100%;border:1px solid #e9ecef;}
+nav.woocommerce-MyAccount-navigation{width:25%;float:right;}
+.woocommerce-MyAccount-content{width:74%;float:left;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li{margin-left:0;margin-right:0;display:block;border-bottom:1px solid #e5e5e5;padding:15px 0;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:last-child{border-bottom:none;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:after{display:none;}
+@media (max-width:768px){.sc-suumary-pop-up{position:unset;}
+nav.woocommerce-MyAccount-navigation,.woocommerce-MyAccount-content{width:100%;float:none;}
+.courses-holder .courses-top-bar .courses-top-bar-inner,.courses-holder .courses-top-bar .courses-top-bar-inner .courses-top-bar-left{display:block;}
+.results-count{margin:20px 0;border:1px solid #f0f0f0;padding:5px 15px;}
+.scorderby{max-width:100%;}
+.site-header .site-logo .studiare-logo-wrap img{max-width:138px;}
+body{font-size:13px;}
+.course-section .panel-group .course-panel-heading{padding:15px 5px;}
+.course-lesson-icon{padding:7px;}
+.course-section .panel-group .course-panel-heading .panel-heading-left .course-lesson-icon i{font-size:13px;}
+.course-section .panel-group .course-panel-heading .panel-heading-left .title h4{font-size:13px;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li{margin-left:0;display:block;border-bottom:1px solid #eaeaea;padding:10px;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:last-child{border-bottom:none;}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:after{display:none;}
+.woocommerce-account .woocommerce-MyAccount-content{overflow-x:scroll;}
+}
+.back-to-top{left:20px;right:auto;}
+.commentlist ul.children{border-right:1px solid #f2f2f2;padding-right:15px;}
+.screversed{flex-direction:row-reverse;}
+.sccommentnumber{text-align:center;}
+.dgwt-wcas-search-wrapp,input[type=search].dgwt-wcas-search-input, input[type=text].dgwt-cas-search-input{text-align:right;}
+.site-search-wrapper.sc-ajax-search .dgwt-wcas-search-wrapp.dgwt-wcas-is-detail-box.dgwt-wcas-no-submit.woocommerce{position:relative;display:block;}
+.site-search-wrapper.sc-ajax-search .dgwt-wcas-no-submit .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input{padding:20px 15px;font-size:20px;border:0;outline:none;-webkit-box-shadow:none !important;box-shadow:none !important;font-weight:300;}
+p.woocommerce-notice.woocommerce-notice--success{background:#8BC34A;padding:15px;border:1px solid green;border-radius:9px;color:green;}
+ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details{background:#ffffff;list-style:none;margin:0;padding:15px;border-radius:5px;border:1px solid #9E9E9E;margin-bottom:25px;}
+.products.grid-view .course-item .course-description{display:block;}
+[class*=hint--]:after{font-family:inherit;}
+.wooscp-area .wooscp-inner .wooscp-table .wooscp-table-inner .wooscp-table-close{left:0;right:auto;}
+.wooscp-popup .wooscp-popup-inner .wooscp-popup-content .wooscp-popup-content-inner .wooscp-popup-close{left:-32px;right:auto;}
+.wooscp-settings-fields li span{cursor:move;margin-right:5px;margin-left:0;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-search{margin:0 0 0 10px;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-items .wooscp-bar-item:first-child{margin-right:0px;margin-left:5px;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-items .wooscp-bar-item:last-child{margin-left:0px;margin-right:5px;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-btn{padding:0 68px 0 20px;margin-right:15px;margin-left:0;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-btn .wooscp-bar-btn-icon-wrapper .wooscp-bar-btn-icon-inner{margin-right:16px;margin-left:0;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-btn .wooscp-bar-btn-icon-wrapper{right:0;left:auto;}
+.wooscp-area .wooscp-inner .wooscp-table .wooscp-table-inner .wooscp-table-items table thead tr th,.wooscp-area .wooscp-inner .wooscp-table .wooscp-table-inner .wooscp-table-items table tbody tr td{padding:15px 0 15px 15px;text-align:right;}
+.wooscp-area .wooscp-inner .wooscp-table .wooscp-table-inner .wooscp-table-items table tbody tr td:first-child{padding-right:15px;}
+.wooscp-area .wooscp-inner .wooscp-table .wooscp-table-inner .wooscp-table-items table tbody tr.tr-rating td .star-rating{float:right;}
+.wooscp-area .wooscp-inner .wooscp-bar .wooscp-bar-items .wooscp-bar-item .wooscp-bar-item-remove{left:2px;right:auto;}
+a.course-loop-teacher.hint--top:after{content:attr(aria-label);}
+.products .course-item .course-item-inner .course-content-holder .course-content-bottom .course-price .price-sale:before{border-top-color:#8bca48;}
+.products .course-item .course-item-inner .course-content-holder .course-content-bottom .course-price .price-sale:after{background-color:#8bca48;text-decoration:line-through;text-shadow:none;font-weight:600;}
+.mfp-close{left:0;right:auto;}
+.sc-suumary-pop-up{background:#f9f8f8;padding:30px;margin:0 auto;text-align:center;border-radius:5px;border:1px solid #e5e5e5;position:relative;z-index:99;max-width:420px;top:-60px;}
+#woosq-popup .single-product .product > div{overflow:hidden;}
+[class*=hint--]:after{text-shadow:none;box-shadow:none;}
+.sc-amazing-offer-in i{margin-left:8px;margin-right:0;}
+.dgwt-wcas-pd-details{justify-content:right;}
+.sc-amazing-offer-final-price-icon{margin-left:8px;margin-right:0;}
+.icon.sc-amazing-offer-in{margin-left:0px;}
+.woosw-area .woosw-inner .woosw-content .woosw-content-top{padding:0 20px 0 60px;}
+.woosw-area .woosw-inner .woosw-content .woosw-content-top .woosw-count{margin-right:5px;margin-left:0;}
+.woosw-area .woosw-inner .woosw-content .woosw-content-top .woosw-close{left:0;right:auto;}
+.woosw-area .woosw-inner .woosw-content .woosw-content-bot .woosw-content-bot-inner > span:last-child{text-align:left;}
+label > [type=checkbox], label > [type=radio]{margin-left::0.375rem;margin-right:0;}
+.wpt_widget_content ul.wpt-tabs li{float:right !important;}
+.wpt_thumb_small,.wpt_avatar{float:right !important;margin-left:12px;margin-right:0px !important;}
+.wpt_widget_content .tab-content li{float:right !important;text-align:right !important;}
+.post-nav-btn.next-btn{text-align:left;}
+.sc-single-download-links:before,.woosw-btn.woosw-added:before,.woosw-btn:before{margin-left:5px;margin-right:0;}
+.woosw-area .woosw-inner .woosw-content .woosw-content-mid table.woosw-content-items tr td:first-child{padding-right:20px;padding-left:5px;}
+.woosw-area .woosw-inner .woosw-content .woosw-content-mid table.woosw-content-items tr td:last-child{padding-left:20px;padding-right:5px;}
+.sc-course-lesson-toggle{left:10px;right:auto;}
+.course-section-title{padding-left:50px;padding-right:15px;}
+.woocommerce-account ul li.woocommerce-MyAccount-navigation-link--user_comments a:before{margin-left:8px;margin-right:0;}
+.rtl .dgwt-wcas-no-submit .dgwt-wcas-ico-magnifier{right:auto;left:12px;transform:rotateY(180deg);}
+.dl_holder {
+    margin-right: 10px;
+}
+
+.woosw-list table.woosw-content-items tr td:first-child { padding-left: 5px; padding-right: 20px; }
+.woosw-list table.woosw-content-items tr td:last-child { padding-right: 5px; padding-left: 20px; }
+
+.comment-body { background: #f8f9fa; border-radius: 10px; padding: 20px 80px 0px 0 !important; }
+.single-post .commentlist .comment .avatar { right: 11px; left: auto; top: 15px; }
+.page .commentlist .comment .avatar, .single-post .commentlist .comment .avatar { width: 60px; height: 60px; }

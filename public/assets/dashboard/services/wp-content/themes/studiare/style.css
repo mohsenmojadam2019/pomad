@@ -1,0 +1,22 @@
+/*
+Theme Name: Studiare
+Theme URI: https://www.rtl-theme.com/author/bagherpebs/
+Author: Suncode
+Author URI: http://suncode.ir
+Description: With Studiare, you can sell, market and create your online courses in one place. It is perfect for universities, teachers, and tutors, but can also be used by individuals and businesses.
+Version: 3.0
+License: GNU General Public License
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: rtl-language-support, classes, courses, educational, educational center, learning center, tutoring, teaching, study, studying, learning, lessons, instructor, teacher, mentor
+Text Domain: studiare
+
+CSS changes can be made in files in the /assets/css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+*/
+
+.hide_in_vc_editor {
+    display: none;
+}
+.admin_vc_addon {
+    background-image: url(assets/images/icons/favicon.png) !important;
+}
